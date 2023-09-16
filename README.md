@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @vixerica
-- 👀 I’m interested in adquirir experiência em desenvolvimento através de estágio
-- 🌱 I’m currently learning python, e estudando análise e desenvolvimento de sistemas 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I'm @vixerica -
+- 👀 I'm interested in acquiring development experience through an internship -
+- 🌱 I'm currently learning python, and studying systems analysis and development -
+- 💞️ I'm looking to collaborate on a team
+- 📫 How to reach me https://www.linkedin.com/in/vixerica/
 
 <!---
 vixerica/vixerica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
