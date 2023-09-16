@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @vixerica -
+- 👋 Hi, I'm @EricaFelix -
 - 👀 I'm interested in acquiring development experience through an internship -
 - 🌱 I'm currently learning python, and studying systems analysis and development -
 - 💞️ I'm looking to collaborate on a team - 
